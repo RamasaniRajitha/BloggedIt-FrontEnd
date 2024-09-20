@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Form Component renders form elements 1`] = `
+<div>
+  <div
+    class="MuiPaper-root makeStyles-paper-2 MuiPaper-elevation6 MuiPaper-rounded"
+  >
+    <h6
+      class="MuiTypography-root MuiTypography-h6 MuiTypography-alignCenter"
+    >
+      Please Sign In to create your own blogs and like other's blogs.
+    </h6>
+  </div>
+</div>
+`;

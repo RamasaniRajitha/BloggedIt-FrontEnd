@@ -1,0 +1,91 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Blog Component renders blog correctly 1`] = `
+<div>
+  <div
+    class="MuiPaper-root MuiCard-root makeStyles-card-4 MuiPaper-elevation6 MuiPaper-rounded"
+  >
+    <span
+      aria-disabled="false"
+      class="MuiButtonBase-root makeStyles-cardAction-11"
+      name="test"
+      role="button"
+      tabindex="0"
+    >
+      <div
+        class="MuiCardMedia-root makeStyles-media-1"
+        style="background-image: url(https://user-images.githubusercontent.com/194400/49531010-48dad180-f8b1-11e8-8d89-1e61320e1d82.png);"
+        title="Sample Title"
+      />
+      <div
+        class="makeStyles-overlay-5"
+      >
+        <h6
+          class="MuiTypography-root MuiTypography-h6"
+        >
+          John Doe
+        </h6>
+        <p
+          class="MuiTypography-root MuiTypography-body2"
+        >
+          a few seconds ago
+        </p>
+      </div>
+      <h2
+        class="MuiTypography-root makeStyles-title-9 MuiTypography-h5 MuiTypography-gutterBottom"
+      >
+        Sample Title
+      </h2>
+      <div
+        class="makeStyles-details-8"
+      >
+        <h2
+          class="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary"
+        >
+          #tag1 
+          #tag2 
+        </h2>
+      </div>
+      <div
+        class="MuiCardContent-root"
+      >
+        <p
+          class="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary"
+        >
+          This is a sample blog message.
+          ...
+        </p>
+      </div>
+      <span
+        class="MuiTouchRipple-root"
+      />
+    </span>
+    <div
+      class="MuiCardActions-root makeStyles-cardActions-10 MuiCardActions-spacing"
+    >
+      <button
+        class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-textSizeSmall MuiButton-sizeSmall Mui-disabled Mui-disabled"
+        disabled=""
+        tabindex="-1"
+        type="button"
+      >
+        <span
+          class="MuiButton-label"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSvgIcon-fontSizeSmall"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M21 8h-6.31l.95-4.57.03-.32c0-.41-.17-.79-.44-1.06L14.17 1 7.59 7.59C7.22 7.95 7 8.45 7 9v10c0 1.1.9 2 2 2h9c.83 0 1.54-.5 1.84-1.22l3.02-7.05c.09-.23.14-.47.14-.73v-2c0-1.1-.9-2-2-2zm0 4l-3 7H9V9l4.34-4.34L12.23 10H21v2zM1 9h4v12H1z"
+            />
+          </svg>
+           Like
+        </span>
+      </button>
+    </div>
+  </div>
+</div>
+`;

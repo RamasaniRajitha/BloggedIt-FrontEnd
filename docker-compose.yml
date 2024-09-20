@@ -1,0 +1,6 @@
+version: '3.5'
+services:
+  frontend:
+    image: ${registry}:latest
+    ports:
+      - '3000:3000'

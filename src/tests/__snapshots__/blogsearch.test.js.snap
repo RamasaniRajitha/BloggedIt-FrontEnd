@@ -1,0 +1,115 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BlogSearch renders correctly 1`] = `
+<div>
+  <div
+    class="makeStyles-container-2"
+  >
+    <div>
+      <header
+        class="MuiPaper-root MuiAppBar-root MuiAppBar-positionStatic MuiAppBar-colorInherit makeStyles-appBarSearch-1 MuiPaper-elevation4"
+      >
+        <h5
+          class="MuiTypography-root MuiTypography-h5"
+        >
+           Dive into a world of informative and engaging blogs.
+        </h5>
+        <div
+          class="MuiFormControl-root MuiTextField-root makeStyles-searchtext-4 MuiFormControl-fullWidth"
+        >
+          <label
+            class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined"
+            data-shrink="false"
+            for="search-input"
+            id="search-input-label"
+          >
+            Search Blogs
+          </label>
+          <div
+            class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-fullWidth MuiInputBase-formControl"
+          >
+            <input
+              aria-invalid="false"
+              class="MuiInputBase-input MuiOutlinedInput-input"
+              id="search-input"
+              name="search"
+              type="text"
+              value=""
+            />
+            <fieldset
+              aria-hidden="true"
+              class="PrivateNotchedOutline-root-7 MuiOutlinedInput-notchedOutline"
+            >
+              <legend
+                class="PrivateNotchedOutline-legendLabelled-9"
+              >
+                <span>
+                  Search Blogs
+                </span>
+              </legend>
+            </fieldset>
+          </div>
+        </div>
+        <div
+          class="MuiFormControl-root makeStyles-tag-3 WAMuiChipInput-root-11"
+        >
+          <label
+            class="MuiFormLabel-root MuiInputLabel-root WAMuiChipInput-outlined-15 WAMuiChipInput-label-19 MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined"
+            data-shrink="false"
+          >
+            Search Tags
+          </label>
+          <div
+            class="WAMuiChipInput-outlined-15 WAMuiChipInput-chipContainer-14 WAMuiChipInput-labeled-18"
+          >
+            <div
+              class="MuiInputBase-root MuiOutlinedInput-root WAMuiChipInput-inputRoot-12 WAMuiChipInput-outlined-15 MuiInputBase-formControl MuiInputBase-adornedStart MuiOutlinedInput-adornedStart"
+            >
+              <input
+                aria-invalid="false"
+                class="MuiInputBase-input MuiOutlinedInput-input WAMuiChipInput-input-13 WAMuiChipInput-outlined-15 MuiInputBase-inputAdornedStart MuiOutlinedInput-inputAdornedStart"
+                type="text"
+                value=""
+              />
+              <fieldset
+                aria-hidden="true"
+                class="PrivateNotchedOutline-root-7 MuiOutlinedInput-notchedOutline"
+                style="padding-left: 8px;"
+              >
+                <legend
+                  class="PrivateNotchedOutline-legend-8"
+                  style="width: 0.01px;"
+                >
+                  <span>
+                    ​
+                  </span>
+                </legend>
+              </fieldset>
+            </div>
+          </div>
+        </div>
+        <p
+          class="MuiFormHelperText-root makeStyles-helptext-5"
+        >
+          Press Enter after entering your tag
+        </p>
+        <button
+          class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+          tabindex="0"
+          type="button"
+        >
+          <span
+            class="MuiButton-label"
+          >
+            Search
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </button>
+      </header>
+    </div>
+    <div />
+  </div>
+</div>
+`;
